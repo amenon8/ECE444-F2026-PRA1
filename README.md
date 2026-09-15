@@ -7,3 +7,5 @@
 ![Activity 3 merge](screenshots/activity3.png)
 ## Activity 4
 ![Activity 4 merge](screenshots/activity4.png)
+## Activity 5
+![Activity 5 merge](screenshots/activity5.png)
